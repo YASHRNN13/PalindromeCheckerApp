@@ -1,7 +1,7 @@
 import java.util.Scanner;
 import java.util.Stack;
 
-public class UseCase5PalindromeCheckerApp {
+class UC5PalindromeCheckerApp {
 
     public static void main(String[] args) {
 
